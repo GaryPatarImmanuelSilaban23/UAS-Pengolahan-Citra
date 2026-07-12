@@ -11,7 +11,7 @@ Repository ini berisi source code, gambar hasil output, dan laporan tugas akhir 
 * **Mata Kuliah:** Pengolahan Citra Digital
 
 ## Deskripsi Project
-Program ini dibuat menggunakan bahasa pemrograman Python di ekosistem Google Colab. Library utama yang dimanfaatkan adalah `OpenCV` (cv2) untuk komputasi matriks spasial citra, `NumPy` untuk operasi array, dan `Matplotlib` untuk visualisasi output berformat grid.
+Program ini dibuat menggunakan bahasa pemrograman Python . Library utama yang dimanfaatkan adalah `OpenCV` (cv2) untuk komputasi matriks spasial citra, `NumPy` untuk operasi array, dan `Matplotlib` untuk visualisasi output berformat grid.
 
 Operasi transformasi geometrik linear yang diaplikasikan pada citra masukan meliputi:
 1. **Rotated:** Memutar matriks citra sebesar 45 derajat berlawanan arah jarum jam terhadap titik pusat gambar.
