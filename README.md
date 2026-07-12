@@ -5,9 +5,9 @@
 Repository ini berisi source code, gambar hasil output, dan laporan tugas akhir pengganti UAS Praktikum mata kuliah Pengolahan Citra Digital. Topik yang dikerjakan pada project ini adalah **Geometrik Citra**.
 
 ## Identitas Mahasiswa
-* **Nama:** Gary [Masukkan Nama Lengkap]
+* **Nama:** Gary Patar Immanuel Silaban 
 * **NIM:** 202431165
-* **Kelas:** [Masukkan Kelas]
+* **Kelas:** D
 * **Mata Kuliah:** Pengolahan Citra Digital
 
 ## Deskripsi Project
